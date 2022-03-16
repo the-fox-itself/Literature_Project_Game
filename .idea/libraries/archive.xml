@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="archive">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/2D_Game_jar/archive.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
